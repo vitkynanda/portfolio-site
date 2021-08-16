@@ -1,45 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Vitky Nanda Putra",
+    "occupation": "Frontend Web Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hallo, saya Vitky, saya saat ini bekerja sebagai frontend web developer, saya telah mendalami dunia pemrograman khususnya pengembangan website selama 1 tahun, saya telah membuat berbagai project selama bekerja di salah satu perusahaan di Jakarta yang bergerak dibidang pengembangan teknologi berbasis IOT. Saya menguasai beberapa bahasa permorgraman seperti Javascript, PHP, C++, dan Python, Dalam pengembangan website saya menggunakan library Javascript React JS dengan framework Next JS, untuk styling saya menggunakan CSS, Sass, framework CSS seperti Booststrap, Tailwind CSS dan beberapa library styling seperti material-ui dan antdesign. Selain itu saya juga menguasai Node JS dengan framework Express JS untuk membangun Backend dan RESTfull API.",
+    "contactmessage": "Anda dapat menghubungi saya dengan mengisi from dibawah ini!",
+    "email": "vitkynptr@gmail.com",
+    "phone": "+62 81513549414",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Graha Harapan Regency",
+      "city": "Bekasi",
+      "state": "Babelan",
+      "zip": "17610"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "https://my-resume-8ad72.web.app",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/vitkynandaputra/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/vitky-nanda-b851341a3/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/vitkynanda_p/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/vitkynanda",
         "className": "fa fa-github"
       }
     ]
@@ -48,28 +43,28 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Universitas Bunda Mulia Jakarta",
+        "degree": "S1 Jurusan Teknik Informatika",
+        "graduated": "Juni 2019",
+        "description": "Lulus dengan predikat cumlaude"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Menn Teknologi Indonesia",
+        "title": "Frontend Web Developer dan GPS Admin Supervisor",
+        "years": "Mei 2020 - Sekarang",
+        "description": "Membangun website untuk kebutuhan internal dan eksternal."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "50%"
       },
       {
         "name": "Git",
@@ -77,33 +72,87 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "90%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Netflix Clone V1 (React JS, Stripe Payment Gateway)",
+        "category": "Clone",
+        "image": "netflix-v1.png",
+        "url": "https://netflix-clone-c73c5.web.app"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Netflix Clone V2 (React JS, Styled Component)",
+        "category": "Clone",
+        "image": "netflix-v2.png",
+        "url": "https://netflix-clone-yt-800ed.web.app"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Hulu Clone (Next JS, Tailwind CSS)",
+        "category": "Clone",
+        "image": "hulu.png",
+        "url": "https://hulu-clone-black-five.vercel.app"
+      },
+      {
+        "title": "Disney Plus Clone V2 (React JS, Styled Component)",
+        "category": "Clone",
+        "image": "disney-plus.png",
+        "url": "https://disney-plus-e43d5.web.app"
+      },
+      {
+        "title": "Instagram Clone (React JS, Tailwind CSS)",
+        "category": "Clone",
+        "image": "instagram.png",
+        "url": "https://instagram-clone-yt-b6696.web.app/login"
+      },
+      {
+        "title": "ChatApp (Next JS, Tailwind CSS)",
+        "category": "Clone",
+        "image": "chatapp.png",
+        "url": "https://chat-app-gray-eta.vercel.app"
+      },
+      {
+        "title": "Dea Sarana Lestari (React JS, Laraverl, Argon, Styled Component)",
+        "category": "Real",
+        "image": "dea-sarana.png",
+        "url": "https://dea-saran-lestari.web.app"
+      },
+      {
+        "title": "Accugps Guide (React JS, Styled Component)",
+        "category": "Real",
+        "image": "accugps-guide.png",
+        "url": "https://accugps-guide.web.app"
+      },
+      {
+        "title": "Accugps Technical (React JSStyled Component)",
+        "category": "Real",
+        "image": "accugps-technical.png",
+        "url": "https://technical-1b363.web.app"
+      },
+      {
+        "title": "Menn Teknologi Indonesia (Wix Web Builder)",
+        "category": "Real",
+        "image": "menn.png",
+        "url": "https://www.menngroup.id/"
+      },
+      {
+        "title": "Kopi Cinta (Larevel, Bootstrap, Admin LTE, Midtrans Payment Gateway)",
+        "category": "Real",
+        "image": "kopi-cinta.png  ",
+        "url": "http://kopi-cinta.com/"
+      },
+      {
+        "title": "Absensi Online (Larevel, Bootstrap)",
+        "category": "Real",
+        "image": "absensi.png",
+        "url": "https://menncctv.com/"
       }
     ]
   },
